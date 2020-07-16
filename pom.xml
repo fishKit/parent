@@ -18,6 +18,7 @@
         <module>../service2</module>
         <module>../service-provider</module>
         <module>../eureka</module>
+        <module>../oauth2-auth-server</module>
     </modules>
     <!-- 继承说明：这里继承SpringBoot提供的父工程 -->
     <parent>
